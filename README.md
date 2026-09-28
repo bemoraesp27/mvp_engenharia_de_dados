@@ -48,7 +48,7 @@
 | Schema | `analyze` | Validações e consultas de conferência |
 | Volume | `bronze.raw_files` | Armazena o CSV original |
 
-📷 ![image_1790555444282.png](./image_1790555444282.png "image_1790555444282.png")
+📷 ![Catálogo de Dados](./catalog.png)
 
 
 ### Tabelas
