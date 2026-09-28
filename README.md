@@ -1,5 +1,7 @@
 # MVP – Engenharia de Dados de Ocorrências Aeronáuticas (CENIPA)
 
+**Observação:** A seguir terão informações de Carga de Dados, Pipeline, Modelagem, Catálogo de Dados e Qualidade dos Dados. Informação referentes a Contexto de Negócio, Análise e Autoavaliação estarão em notebook dentro da estrutura do databricks.
+
 **Plataforma:** Databricks (Unity Catalog).
 
  **Catalog:** `mvp_bernardomoraes_catalog`. 
